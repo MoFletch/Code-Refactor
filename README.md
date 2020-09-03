@@ -3,8 +3,8 @@
 ### Code Refactor is a repository holding the HTML and CSS code, as well as image assets for the Horiseon company website used in Module 1 end of lesson Challenge.  
 
 ## Horiseon Website Landing Page
-![Image of Horiseon website landing page]
-(https://github.com/MoFletch/Code-Refactor/blob/master/PublishedSite9.3.20.png)
+(https://github.com/MoFletch/Code-Refactor/blob/master/)
+![Image of Horiseon website landing page](assets/images/PublishedSite9.3.20.png "Horiseon")
 
 ## Introduction
 #### The Challenge requested the student clone existing source code and modify it including considerations for accessibility and SEO. The refactoring improves it without changing what it does - the goal is to leave it better than it was found. Commenting was a priority, as was consolidating CSS selectors by creating classes to simplify the code.  Organizing code, ensuring links worked and using proper html semantics was also a focus.
