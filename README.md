@@ -3,7 +3,6 @@
 ### Code Refactor is a repository holding the HTML and CSS code, as well as image assets for the Horiseon company website used in Module 1 end of lesson Challenge.  
 
 ## Horiseon Website Landing Page
-(https://github.com/MoFletch/Code-Refactor/blob/master/)
 ![Image of Horiseon website landing page](assets/images/PublishedSite9.3.20.png "Horiseon")
 
 ## Introduction
